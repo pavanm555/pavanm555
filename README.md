@@ -1,3 +1,7 @@
+<p align="center"><a href=""><img width="80%" alt="Hello, I'm Pavan." src="./assets/readme-header.png" /></a></p>
+
+<br />
+
 <h1 align="center">Hi 👋, I'm Pavan</h1>
 
 - 📙 Currently pursuing **Computer Science at Vellore Institute of Technology.**
