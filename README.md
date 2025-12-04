@@ -1,13 +1,11 @@
-<h2 align="center">Hello!, I'm Pavan</h2>
+<h2 align="center">Hey there! I'm Pavan 👋</h2>
 
-**About me**
-- 📙 Currently pursuing Computer Science at Vellore Institute of Technology.
+  **About Me**
+- 👨‍💼 Associate Software Engineer II (Data Science) at **PowerSchool**, contributing to AI systems like PowerBuddy for K–12 education.
+- 🎓 Graduated with an Integrated M.Tech in Computer Science — VIT (Aug 2025).
+- 🤖 Skilled in Data Science, LLM fine-tuning, Responsible AI, prompt optimization, and intelligent automation.
+- 🚀 Passionate about leveraging AI to solve real-world problems and continuously learning new technologies.
 
-- 🔭 **Data Science** is what I'm now working on.
-
-- 👨‍💻 Front End Developer.
-
-- ⚙️ I am eager to enhance my technical skills and broaden my expertise.
 
 <img align="right" alt="Let's code" width="300" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
