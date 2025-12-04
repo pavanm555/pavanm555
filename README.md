@@ -36,6 +36,7 @@
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=pavanm555&" alt="pavanm555" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanm555&show_icons=true&locale=en&layout=compact" alt="pavanm555" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanm555&layout=compact" />
+
 
 
