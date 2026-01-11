@@ -2,8 +2,8 @@
 
   **About Me**
 - 👨‍💼 Associate Software Engineer II (Data Science) at **PowerSchool**, contributing to AI systems like PowerBuddy for K–12 education.
-- 🎓 Graduated with an Integrated M.Tech in Computer Science - VIT (May 2025).
-- 🤖 Skilled in Data Science, Machine Learning, RAG, LLM fine-tuning, Responsible AI, prompt optimization, LLMs, AWS services and intelligent automation.
+- 🎓 Graduated with an Integrated M.Tech in Computer Science with Data Science - VIT (May 2025).
+- 🤖 Skilled in Data Science, Machine Learning, Generative AI, Chatbot development, RAG, LLMs, LLM fine-tuning, Responsible AI, Prompt Engineering, Data Analysis and AWS services.
 - 🚀 Passionate about leveraging AI to solve real-world problems and continuously learning new technologies.
 
 
