@@ -1,7 +1,7 @@
 <h2 align="center">Hey there! I'm Pavan 👋</h2>
 
 ### 💫 About Me:
-💼 AI & Data Science Engineer | 📫 Open to new opportunities<br>👨‍💼 Associate Software Engineer II (Data Science) at PowerSchool, working on AI assistants for K-12 education (Jul 2024 – Dec 2025)<br>🤖 Skilled in Data Science, Machine Learning, Generative AI, Chatbot development, RAG, LLMs, LLM fine-tuning, Responsible AI, Prompt Engineering, Data Analysis and AWS services.<br>🎓 Integrated M.Tech in Computer Science (Data Science), VIT (May 2025).<br>🚀 Passionate about leveraging AI to solve real-world problems and continuously learning new technologies.
+💼 AI & Data Science Engineer | 📫 Open to new opportunities<br>👨‍💼 Associate Software Engineer II (Data Science) at PowerSchool, working on AI assistants for K-12 education (Jul 2024 – Dec 2025)<br>🤖 Skilled in Data Science, Machine Learning, Generative AI, Chatbot development, RAG, LLMs, LLM fine-tuning, Responsible AI, Prompt Engineering, Data Analysis and AWS services.<br>🎓 Integrated M.Tech in Computer Science (Data Science), VIT (Sep 2020 - May 2025).<br>🚀 Passionate about leveraging AI to solve real-world problems and continuously learning new technologies.
 
 
 ### 🌐 Socials:
