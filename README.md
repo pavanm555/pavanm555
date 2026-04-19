@@ -1,7 +1,7 @@
 <h2 align="center">Hey there! I'm Pavan 👋</h2>
 
 ### 💫 About Me:
-💼 AI Engineer focused on building real-world GenAI systems <br>👨‍💼 Currently working as BTSA @ ZS, building scalable AI solutions using LLMs, RAG, and multi-agent systems)<br>🏢 Former Associate Software Engineer II (Data Science) at PowerSchool, built AI assistants for K-12 education<br>🤖 Skilled in Data Science, Machine Learning, Generative AI, Chatbot development, RAG, LLMs, LLM fine-tuning, Responsible AI, Prompt Engineering, Data Analysis and AWS services.<br>🎓 Integrated M.Tech in Computer Science (Data Science), VIT (Sep 2020 - May 2025).<br>🚀 Designing and deploying AI systems that drive real-world impact, while staying current with evolving technologies
+💼 AI Engineer focused on building real-world GenAI systems <br>👨‍💼 Currently working as BTSA @ ZS, building scalable AI solutions using LLMs, RAG, and multi-agent systems<br>🏢 Former Associate Software Engineer II (Data Science) at PowerSchool, built AI assistants for K-12 education<br>🤖 Skilled in Data Science, Machine Learning, Generative AI, Chatbot development, RAG, LLMs, LLM fine-tuning, Responsible AI, Prompt Engineering, Data Analysis and AWS services.<br>🎓 Integrated M.Tech in Computer Science (Data Science), VIT (Sep 2020 - May 2025).<br>🚀 Designing and deploying AI systems that drive real-world impact, while staying current with evolving technologies
 
 
 ### 🌐 Socials:
